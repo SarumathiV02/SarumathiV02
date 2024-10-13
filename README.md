@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on Sparkouttech and BlockchainX.
 
-- 🌱 I’m currently learning **DSA & Playwright**
+- 🌱 I’m currently learning **Playwright**
 
 - 💬 Ask me about **Software Testing and Blockchain**
 
