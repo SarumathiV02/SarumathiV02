@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, Myself Sarumathi Vasu</h1>
-<h3 align="center">Detail-Oriented Quality Analyst | Automation Advocate</h3>
+<h3 align="center">Detail-Oriented Software Engineer | Automation Advocate</h3>
 
 - 🔭 I’m currently working on Sparkouttech and BlockchainX.
 
 - 🌱 I’m currently learning **DSA, Playwright**
 
-- 💬 Ask me about **Software Testing and Blockchain**
+- 💬 Ask me about **Software Engineer and Blockchain**
 
 - 📫 How to reach me **sarumathitvm02@gmail.com**
 
